@@ -1,5 +1,5 @@
 /*
-    ESP32 Fritz!Box call monitor
+    ESP-01 7-Segment LED clock
     Copyright (C) 2023 Thomas Fišer
 
     This program is free software: you can redistribute it and/or modify
